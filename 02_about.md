@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Aleksandr. I am a Computer Science student at Rutgers University. I currently work as an Software Engineering Intern at TDK Electronics. My interests include Full-Stack Development, Microservices Architecture, Software Architecture, Software Design Patterns. My overall objective as an engineer is to solve real world problems with technology and build products that impacts peoples lives in a positive way. I am currently proficient in C#, ASP.NET, SQL, Linux and Docker. I have some experiences with Python, Java and C. You can find my personal website as well my Github portfolio by clicking Contact Info. 
+I'm Aleksandr, a software engineer and an aspiring artist.
+
+Currently I am a student at Rutgers University and my area of study is Computer Science. Additionally, I also work as a Software Engineering Intern at TDK Electronics Inc.
+
+As a software engineer, I write mostly in C# using ASP.NET, Javascript and Angular; In addition, I own/manage a few Linux servers and utilize Docker for deployments. I have also written projects using Python, Java and C.
+
+You can find all of my social media accounts and links in the sidebar.
 
 Here is <a href="/resume/Resume.pdf">my resume</a><br />
-
-
-
-
