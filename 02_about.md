@@ -12,4 +12,4 @@ As a software engineer, I write mostly in C# using ASP.NET, Javascript and Angul
 
 You can find all of my social media accounts and links in the sidebar.
 
-Here is <a href="/resume/Resume.pdf">my resume</a><br />
+Here is [my resume](resume/Resume.pdf)
