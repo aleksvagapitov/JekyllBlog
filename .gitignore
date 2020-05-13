@@ -9,9 +9,3 @@ _newsletters/send.sh
 gnuplot/
 css/_icons.scss
 _gnuplot/**/*.svg
-
-# Resume Build Files
-Resume.log
-Resume.out
-Resume.synctex.gz
-Resume.aux

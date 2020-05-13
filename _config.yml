@@ -5,7 +5,7 @@ author: Aleksandr Agapitov
 email: aleksvagapitov@gmail.com
 description: "Aleksandr's Blog About Coding" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/JekyllBlog" # the subpath of your site, e.g. /blog/
 url: "https://aleksvagapitov.github.io" # the base hostname & protocol for your site
 locale: en_US
 
@@ -14,9 +14,9 @@ twitter_username: aleksvagapitov
 github_username:  aleksvagapitov
 disqus_shortname: aleksvagapitov
 linkedin_username: aleksvagapitov
-favicon:     "/assets/images/favicon.ico"
+favicon:     "/JekyllBlog/assets/images/favicon.ico"
 aboutme: Hi, my name is Aleksandr. I am a Computer Science student at Rutgers University. I am a software engineer and an aspiring artist.  # these are shown on aboutme-sidebar.
-aboutme_photo: "/assets/images/profile.jpg"
+aboutme_photo: "/JekyllBlog/assets/images/profile.jpg"
 google_analytics_key: UA-149443615-1
 
 

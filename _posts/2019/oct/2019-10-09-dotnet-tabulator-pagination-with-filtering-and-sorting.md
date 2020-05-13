@@ -23,7 +23,7 @@ keywords:
 
 All of the code from this article can be found [here](https://github.com/aleksvagapitov/DotnetTabulatorFiltering).
 <figure>
-  <img src="{{site.url}}/assets/images/2019/oct/dotnet-tabulator-filtering.png" height="250" alt="Dotnet-Tabulator-Filtering"/>
+  <img src="{{site.baseurl}}/assets/images/2019/oct/dotnet-tabulator-filtering.png" height="250" alt="Dotnet-Tabulator-Filtering"/>
   <figcaption>This is what we are building in this article. </figcaption>
 </figure>
 
